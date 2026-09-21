@@ -1,0 +1,11 @@
+{
+  "name": "Jarvis - Knowledge Galaxy & Autonomous Butler",
+  "description": "Cinematic 3D knowledge galaxy, witty British butler AI, bidirectional voice loop, screen & camera vision organs, and focus accountability engine.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
